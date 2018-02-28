@@ -1,0 +1,59 @@
+body {
+	background-color: #fff;
+   position: relative;
+}
+#col1 {
+  background-color: #662E89;
+}
+#col2 {
+  background-color: #2281B9;
+}
+#col3 {
+  background-color: #94C882;
+}
+#col4 {
+  background-color: #F7913D;
+}
+#imagen {
+  display:block;
+  margin:auto;
+  width: 420px;
+  height: 420px;
+  position: center;
+}
+.imagen2 {
+  width: 500px;
+  height: 350px;
+}
+h1 {
+  color:#fff;
+}
+h2 {
+  color:#fff;
+}
+h3 {
+  color:#fff;
+}
+h4 {
+  color:#fff;
+}
+
+p {
+  color:#fff;
+}
+#mapa {
+  display:block;
+  margin:auto;
+}
+button {
+  display:block;
+  margin:auto;
+}
+#logo {
+  width: 30px;
+  height: 30px;
+}
+.titulo {
+  display:block;
+  margin:auto;
+}
